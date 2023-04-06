@@ -1,6 +1,9 @@
-[![hamerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamerin)](https://github.com/anuraghazra/github-readme-stats)
+### ✦☁️
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himyu)](https://solved.ac/himyu)
+- ✨ Yonsei Univ. College of Medicine
+- 🔭 I'm interested in **Web Front-End** and **Problem Solving**
+- 🌱 I'm currently learning **ML/DL** and **Rust**
+- 📫 [hamerin04@gmail.com](mailto:hamerin04@gmail.com) / [sy_h@yonsei.ac.kr](mailto:sy_h@yonsei.ac.kr)
 
 <!--
 **hamerin/hamerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
