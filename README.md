@@ -1,7 +1,7 @@
 ### ✦☁️
 
 - ✨ Yonsei Univ. College of Medicine
-- 🔭 I'm interested in **Web Front-End** and **Problem Solving**
+- 🔭 I'm interested in **Web Front-End** and **Algorithmic Problem Solving**
 - 🌱 I'm currently learning **ML/DL** and **Rust**
 - 📫 [hamerin04@gmail.com](mailto:hamerin04@gmail.com) / [sy_h@yonsei.ac.kr](mailto:sy_h@yonsei.ac.kr)
 
