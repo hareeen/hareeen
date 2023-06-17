@@ -4,7 +4,7 @@
 - 💖 SWM 14th
 - 🔭 I'm interested in **Web Front-End** and **Algorithmic Problem Solving**
 - 🌱 I'm currently learning **ML/DL** and **Rust**
-- 📫 [hamerin04@gmail.com](mailto:hamerin04@gmail.com) / [sy_h@yonsei.ac.kr](mailto:sy_h@yonsei.ac.kr)
+- 📫 [sy_h@yonsei.ac.kr](mailto:sy_h@yonsei.ac.kr)
 
 <!--
 **hamerin/hamerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
