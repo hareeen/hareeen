@@ -1,6 +1,6 @@
 ### ✦☁️ | shine; consolingly yet extraordinarily
 
-- 🚀 **CTO, Reasearch Engineer** @ [Asteromorph](https://asteromorph.com)
+- 🚀 **CTO, Research Engineer** @ [Asteromorph](https://asteromorph.com)
 - 📝 Undergraduate at **Yonsei University** | Major in **Medicine**, Minor in **Integrated Technology**
 - ✨ **Software Maestro 14th Alumni**
 - 🔭 **Proficient in:** Rust, Algorithms, ML/DL Engineering & Applications, and DevOps
