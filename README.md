@@ -4,6 +4,7 @@
 - Studying Medicine at Yonsei University with a minor in Integrated Technology
 - Software Maestro 14th alumni
 - Works with Rust, algorithms, and ML / DL, with additional experience in web front-end and DevOps
+- Enjoys FFXIV and builds small tools and experimental features around the game in spare time
 - Open to chatting or collaborating
   - Twitter: [@_hareeen](https://x.com/_hareeen)
   - Email: [me@hareen.io](mailto:me@hareen.io)
