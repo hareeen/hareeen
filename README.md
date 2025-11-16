@@ -1,7 +1,9 @@
-### ✦☁️ | shine; consolingly yet extraordinarily
+**✦☁️ | shine; consolingly yet extraordinarily**
 
-- 🚀 **CTO, Research Engineer** @ [Asteromorph](https://asteromorph.com)
-- 📝 Undergraduate at **Yonsei University** | Major in **Medicine**, Minor in **Integrated Technology**
-- ✨ **Software Maestro 14th Alumni**
-- 🔭 **Proficient in:** Rust, Algorithms, ML/DL Engineering & Applications, Web Front-End Engineering and DevOps
-- 💖 Always happy to connect: [@_hareeen](https://twitter.com/_hareeen) / [me@hareen.io](mailto:me@hareen.io)
+- CTO and research engineer at [Asteromorph](https://asteromorph.com), focusing on building practical systems grounded in research
+- Studying Medicine at Yonsei University with a minor in Integrated Technology
+- Software Maestro 14th alumni
+- Works with Rust, algorithms, and ML / DL, with additional experience in web front-end and DevOps
+- Open to chatting or collaborating
+  - Twitter: [@_hareeen](https://x.com/_hareeen)
+  - Email: [me@hareen.io](mailto:me@hareen.io)
