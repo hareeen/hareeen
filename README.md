@@ -1,6 +1,6 @@
 **✦☁️ | shine; consolingly yet extraordinarily**
 
-- CTO and research engineer at [Asteromorph](https://asteromorph.com), focusing on building practical systems grounded in research
+- Cofounder and CTO at [Asteromorph](https://asteromorph.com), focusing on building practical systems grounded in research
 - Studying Medicine at Yonsei University with a minor in Integrated Technology
 - Software Maestro 14th alumni
 - Works with Rust, algorithms, and ML / DL, with additional experience in web front-end and DevOps
