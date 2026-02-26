@@ -1,7 +1,7 @@
 **✦☁️ | shine; consolingly yet extraordinarily**
 
 - Cofounder and CTO at [Asteromorph](https://asteromorph.com), focusing on building practical systems grounded in research
-- Studying Medicine at Yonsei University with a minor in Integrated Technology
+- Studying Medicine at Yonsei University
 - Software Maestro 14th alumni
 - Works with Rust, algorithms, and ML / DL, with additional experience in web front-end and DevOps
 - Enjoys FFXIV and builds small tools and experimental features around the game in spare time
