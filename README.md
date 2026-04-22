@@ -1,10 +1,10 @@
 **✦☁️ | shine; consolingly yet extraordinarily**
 
 - Cofounder and CTO at [Asteromorph](https://asteromorph.com), focusing on building practical systems grounded in research
-- Studying Medicine at Yonsei University
-- Software Maestro 14th alumni
-- Works with Rust, algorithms, and ML / DL, with additional experience in web front-end and DevOps
-- Enjoys FFXIV and builds small tools and experimental features around the game in spare time
+- Studying Medicine at Yonsei University; SSHS alumni
+- Software Maestro 14th · competitive programming
+- Primarily works in Rust; also does algorithms, ML/DL, systems, and whatever else
+- Enjoys FFXIV and builds things around it
 - Open to chatting or collaborating
   - X (Twitter): [@_hareeen](https://x.com/_hareeen)
   - Email: [me@hareen.io](mailto:me@hareen.io)
